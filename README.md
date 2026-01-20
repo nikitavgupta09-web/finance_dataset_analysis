@@ -44,7 +44,7 @@ Bad Loan Total Received Amount
 
 📈 Visualizations & Charts
 
-Monthly Trends by Issue Date (Line / Area Chart)
+Monthly Trends by Issue Date (Line / Area Chart )
 Regional Analysis by State (Bar Chart)
 Employment Length Analysis (Bar Chart)
 Loan Purpose Breakdown (Bar Chart)
